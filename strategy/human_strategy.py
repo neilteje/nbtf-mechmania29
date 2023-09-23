@@ -61,7 +61,11 @@ class human_strategy:
 
             closest_human_pos = pos  # default position is zombie's pos
             closest_human_distance = 1984  # large number, map isn't big enough to reach this distance
-
+            
+            count_tracer, count_medic, count_builder, count_demolisher = 0, 0, 0, 0
+            firstTracer, secondTracer, thirdTracer, fourthTracer, fifthTracer  = Position((3, 0)), Position((1, 1)), Position((2,0)), Position((99, 99)), Position((0, 65))
+            firstMedic, secondMedic, thirdMedic, fourthMedic = Position(1, 0), Position(97, 0), Position(95, 95), Position(0, 90)
+            
             # Iterate through every human to find the closest one
             for c in game_state.characters.values():
                 if c.is_zombie:
