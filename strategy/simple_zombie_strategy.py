@@ -8,7 +8,7 @@ from game.character.action.attack_action import AttackAction
 from game.character.action.move_action import MoveAction
 from game.game_state import GameState
 from game.character.action.attack_action_type import AttackActionType
-from strategy.human_strategy import Strategy
+from strategy.strategy import Strategy
 
 
 class SimpleZombieStrategy(Strategy):
