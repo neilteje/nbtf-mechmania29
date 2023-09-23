@@ -1,5 +1,18 @@
 # This defines the general layout your strategy method will inherit. Do not edit this.
 
+#TODO:
+'''
+1. Hard code following paths:
+    - maze
+    - top left
+    - top right entrance
+    - water
+    - bottom right triangle
+2. Top right demolitionist breaks the wall, then him and the builder and a medic chill in there - builder keeps building randomly inside
+3. Top left - traceurs avoid zombies - in a 30x30 zone - 1 healer keeps healing them
+4. River - go through the entrance and split the characters randomly between left and right
+'''
+
 from game.character.action.ability_action import AbilityAction
 from game.character.action.ability_action_type import AbilityActionType
 from game.character.action.attack_action import AttackAction
