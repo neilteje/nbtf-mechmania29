@@ -7,7 +7,7 @@ from game.character.action.move_action import MoveAction
 from game.character.character_class_type import CharacterClassType
 from game.game_state import GameState
 from game.util.position import Position
-from strategy.strategy import Strategy
+from strategy.human_strategy import Strategy
 
 
 class RandomStrategy(Strategy):
