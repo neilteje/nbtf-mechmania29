@@ -1,11 +1,13 @@
 # This defines the general layout your strategy method will inherit. Do not edit this.
 
 from game.character.action.ability_action import AbilityAction
+from game.character.action.ability_action_type import AbilityActionType
 from game.character.action.attack_action import AttackAction
 from game.character.action.move_action import MoveAction
 from game.character.character_class_type import CharacterClassType
 from game.game_state import GameState
 from game.util.position import Position
+from strategy.population_heatmap import PopulationHeatmap
 import random
 
 class human_strategy:
@@ -25,10 +27,12 @@ class human_strategy:
         You should return a dictionary of class type to the number you want to use of that class
         """
         choices = {
-            CharacterClassType.MARKSMAN: random.randint(1, 5),
-            CharacterClassType.MEDIC: random.randint(1, 5),
-            CharacterClassType.TRACEUR: random.randint(1, 5),
-            CharacterClassType.DEMOLITIONIST: random.randint(1, 5),
+            CharacterClassType.MARKSMAN: 0.1*dict[num_to_pick],
+            CharacterClassType.MEDIC: 0.1*dict[num_to_pick],
+            CharacterClassType.TRACEUR: 0.2*dict[num_to_pick],
+            CharacterClassType.DEMOLITIONIST: 0.05*dict[num_to_pick],
+            CharacterClassType.BUILDER: 0.1*dict[num_to_pick],
+            CharacterClassType.NORMAL: 0.45*dict[num_to_pick],
         }
         return choices
 
@@ -42,20 +46,61 @@ class human_strategy:
         game_state: The current state of all characters and terrain on the map
         """
         choices = []
-        for cid, moves in possible_moves.items():
-            if not moves:
+
+        for [character_id, moves] in possible_moves.items():
+            if len(moves) == 0:  # No choices... Next!
                 continue
-            # humanPos = game_state.characters[cid].position
-            closest = float('inf')
-            best = moves[0]
-            for move in moves:
-                for char in game_state.characters.values():
-                    if char.is_zombie:
-                        distance = abs(char.position.x - move.destination.x) + abs(char.position.y - move.destination.y)
-                        if distance < closest:
-                            closest = distance
-                            best = move
-            choices.append(best)
+            
+            #TODO: Implement max distance algorithm for the tracers in the top left using the heatmap
+
+            heatmap = PopulationHeatmap(game_state)
+            heatmap.calcHeatmap()
+            highest_heatmap_y, highest_heatmap_x = heatmap.hottest()
+
+            pos = game_state.characters[character_id].position  # position of the zombie
+
+            closest_human_pos = pos  # default position is zombie's pos
+            closest_human_distance = 1984  # large number, map isn't big enough to reach this distance
+
+            # Iterate through every human to find the closest one
+            for c in game_state.characters.values():
+                if c.is_zombie:
+                    continue  # Fellow zombies are frens :D, ignore them
+
+                distance = abs(c.position.x - pos.x) + abs(c.position.y - pos.y) # calculate manhattan distance between human and zombie
+                if distance < closest_human_distance:  # If distance is closer than current closest, replace it!
+                    closest_human_pos = c.position
+                    closest_human_distance = distance
+
+            if (closest_human_distance < 10):
+                    
+                    move_distance = 1337  # Distance between the move action's destination and the closest human
+                    move_choice = moves[0]  # The move action the zombie will be taking
+                    for m in moves:
+                        distance = abs(m.destination.x - closest_human_pos.x) + abs(m.destination.y - closest_human_pos.y)  # calculate manhattan distance
+
+                        # If distance is closer, that's our new choice!
+                        if distance < move_distance:  
+                            move_distance = distance
+                            move_choice = m
+
+                    choices.append(move_choice)  # add the choice to the list
+            else:
+                # Move as close to the human as possible
+                move_distance = 1337  # Distance between the move action's destination and the closest human
+                move_choice = moves[0]  # The move action the zombie will be taking
+                highest_heatmap_x = highest_heatmap_x * 10 + 5
+                highest_heatmap_y = highest_heatmap_y * 10 + 5
+                for m in moves:
+                    distance = abs(m.destination.x - highest_heatmap_x) + abs(m.destination.y - highest_heatmap_y)  # calculate manhattan distance
+
+                    # If distance is closer, that's our new choice!
+                    if distance < move_distance:  
+                        move_distance = distance
+                        move_choice = m
+
+                choices.append(move_choice)  # add the choice to the list
+
         return choices
 
     def decide_attacks(
@@ -104,5 +149,43 @@ class human_strategy:
                         lowHP = target_human_health
                         bestAb = ability
                 choices.append(bestAb)
+                
+            if game_state.characters[cid].class_type == CharacterClassType.BUILDER:
+                for ability in abilities:
+                    # for i in game_state.characters:
+                    #     if game_state.characters[cid].position == ability.positional_target: 
+                    #         choices.           
+                    # for i in game_state.terrains:
+                    #     if game_state.terrains[cid].position == ability.positional_target:
+                    if ability.positional_target == game_state.characters[cid].position:
+                        choices.append(ability)
+                
+            if game_state.characters[cid].class_type == CharacterClassType.DEMOLITIONIST:
+                for ability in abilities:
+                    if ability.positional_target == game_state.characters[cid].position:
+                        if ability.positional_target is None:
+                            choices.append(ability)
+            
+            if game_state.characters[cid].class_type == CharacterClassType.NORMAL:
+                lowHP = float('inf')
+                bestAb = abilities[0]
+                for ability in abilities:
+                    target_human_health = game_state.characters[ability.character_id_target].health
+                    if target_human_health < lowHP:
+                        lowHP = target_human_health
+                        bestAb = ability
+                choices.append(bestAb)
+            
+            if game_state.characters[cid].class_type == CharacterClassType.TRACEUR:
+                lowHP = float('inf')
+                bestAb = abilities[0]
+                for ability in abilities:
+                    target_human_health = game_state.characters[ability.character_id_target].health
+                    if target_human_health < lowHP:
+                        lowHP = target_human_health
+                        bestAb = ability
+                choices.append(bestAb)
         return choices
+    
+    
 
