@@ -1,0 +1,7 @@
+Connecting to server on port 9001...
+Connected to server on port 9001
+
+Your bot had no errors.
+
+Finished game on turn 169 with 0 humans and 25 zombies.
+Score: 169-131 (H-Z). You were the humans.

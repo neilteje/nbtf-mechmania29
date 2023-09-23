@@ -1,6 +1,7 @@
 from strategy.random_strategy import RandomStrategy
 from strategy.simple_human_strategy import SimpleHumanStrategy
 from strategy.simple_zombie_strategy import SimpleZombieStrategy
+from strategy.zombie_strategy import ZombieStrategy
 from strategy.strategy import Strategy
 
 
@@ -9,6 +10,6 @@ def choose_strategy(is_zombie: bool) -> Strategy:
     # NOTE: You can use "is_zombie" to use two different strategies for humans and zombies (RECOMMENDED!)
     #
     if is_zombie:
-        return SimpleZombieStrategy()
+        return ZombieStrategy()
     else:
-        return RandomStrategy()
+        return SimpleHumanStrategy()
