@@ -1,0 +1,1010 @@
+Loading map...
+Connecting clients...
+Failed to connect to port 9001, java.net.SocketTimeoutException: Accept timed out
+Failed to connect to port 9002, java.net.SocketTimeoutException: Accept timed out
+An error occurred handling input of human player on turn 0 during CHOOSE_CLASSES phase:
+java.lang.RuntimeException: Received null, expected a proper response
+Running game...
+An error occurred handling input of zombie player on turn 1 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 1 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 2 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 2 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 2 during ABILITY phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 3 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 3 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 4 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 4 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 4 during ABILITY phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 5 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 5 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 6 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 6 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 6 during ABILITY phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 7 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 7 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 8 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 8 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 8 during ABILITY phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 9 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 9 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 10 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 10 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 10 during ABILITY phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 11 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 11 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 12 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 12 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 12 during ABILITY phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 13 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 13 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 14 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 14 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 14 during ABILITY phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 15 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 15 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 16 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 16 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 16 during ABILITY phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 17 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 17 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 18 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 18 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 18 during ABILITY phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 19 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 19 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 20 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 20 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 20 during ABILITY phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 21 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 21 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 22 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 22 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 22 during ABILITY phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 23 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 23 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 24 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 24 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 24 during ABILITY phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 25 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 25 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 26 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 26 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 26 during ABILITY phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 27 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 27 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 28 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 28 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 28 during ABILITY phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 29 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 29 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 30 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 30 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 30 during ABILITY phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 31 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 31 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 32 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 32 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 32 during ABILITY phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 33 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 33 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 34 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 34 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 34 during ABILITY phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 35 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 35 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 36 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 36 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 36 during ABILITY phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 37 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 37 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 38 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 38 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 38 during ABILITY phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 39 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 39 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 40 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 40 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 40 during ABILITY phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 41 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 41 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 42 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 42 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 42 during ABILITY phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 43 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 43 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 44 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 44 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 44 during ABILITY phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 45 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 45 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 46 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 46 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 46 during ABILITY phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 47 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 47 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 48 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 48 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 48 during ABILITY phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 49 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 49 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 50 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 50 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 50 during ABILITY phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 51 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 51 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 52 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 52 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 52 during ABILITY phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 53 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 53 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 54 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 54 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 54 during ABILITY phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 55 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 55 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 56 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 56 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 56 during ABILITY phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 57 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 57 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 58 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 58 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 58 during ABILITY phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 59 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 59 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 60 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 60 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 60 during ABILITY phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 61 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 61 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 62 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 62 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 62 during ABILITY phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 63 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 63 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 64 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 64 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 64 during ABILITY phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 65 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 65 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 66 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 66 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 66 during ABILITY phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 67 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 67 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 68 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 68 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 68 during ABILITY phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 69 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 69 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 70 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 70 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 70 during ABILITY phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 71 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 71 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 72 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 72 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 72 during ABILITY phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 73 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 73 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 74 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 74 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 74 during ABILITY phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 75 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 75 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 76 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 76 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 76 during ABILITY phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 77 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 77 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 78 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 78 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 78 during ABILITY phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 79 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 79 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 80 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 80 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 80 during ABILITY phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 81 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 81 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 82 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 82 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 82 during ABILITY phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 83 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 83 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 84 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 84 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 84 during ABILITY phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 85 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 85 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 86 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 86 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 86 during ABILITY phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 87 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 87 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 88 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 88 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 88 during ABILITY phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 89 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 89 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 90 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 90 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 90 during ABILITY phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 91 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 91 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 92 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 92 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 92 during ABILITY phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 93 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 93 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 94 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 94 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 94 during ABILITY phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 95 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 95 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 96 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 96 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 96 during ABILITY phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 97 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 97 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 98 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 98 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 98 during ABILITY phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 99 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 99 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 100 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 100 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 100 during ABILITY phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 101 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 101 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 102 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 102 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 102 during ABILITY phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 103 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 103 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 104 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 104 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 104 during ABILITY phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 105 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 105 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 106 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 106 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 106 during ABILITY phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 107 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 107 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 108 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 108 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 108 during ABILITY phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 109 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 109 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 110 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 110 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 110 during ABILITY phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 111 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 111 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 112 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 112 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 112 during ABILITY phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 113 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 113 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 114 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 114 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 114 during ABILITY phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 115 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 115 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 116 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 116 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 116 during ABILITY phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 117 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 117 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 118 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 118 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 118 during ABILITY phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 119 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 119 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 120 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 120 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 120 during ABILITY phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 121 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 121 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 122 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 122 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 122 during ABILITY phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 123 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 123 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 124 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 124 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 124 during ABILITY phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 125 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 125 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 126 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 126 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 126 during ABILITY phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 127 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 127 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 128 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 128 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 128 during ABILITY phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 129 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 129 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 130 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 130 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 130 during ABILITY phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 131 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 131 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 132 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 132 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 132 during ABILITY phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 133 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 133 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 134 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 134 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 134 during ABILITY phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 135 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 135 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 136 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 136 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 136 during ABILITY phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 137 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 137 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 138 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 138 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 138 during ABILITY phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 139 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 139 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 140 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 140 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 140 during ABILITY phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 141 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 141 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 142 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 142 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 142 during ABILITY phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 143 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 143 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 144 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 144 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 144 during ABILITY phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 145 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 145 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 146 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 146 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 146 during ABILITY phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 147 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 147 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 148 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 148 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 148 during ABILITY phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 149 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 149 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 150 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 150 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 150 during ABILITY phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 151 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 151 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 152 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 152 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 152 during ABILITY phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 153 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 153 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 154 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 154 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 154 during ABILITY phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 155 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 155 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 156 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 156 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 156 during ABILITY phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 157 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 157 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 158 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 158 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 158 during ABILITY phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 159 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 159 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 160 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 160 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 160 during ABILITY phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 161 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 161 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 162 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 162 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 162 during ABILITY phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 163 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 163 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 164 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 164 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 164 during ABILITY phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 165 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 165 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 166 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 166 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 166 during ABILITY phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 167 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 167 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 168 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 168 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 168 during ABILITY phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 169 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 169 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 170 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 170 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 170 during ABILITY phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 171 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 171 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 172 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 172 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 172 during ABILITY phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 173 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 173 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 174 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 174 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 174 during ABILITY phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 175 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 175 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 176 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 176 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 176 during ABILITY phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 177 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 177 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 178 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 178 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 178 during ABILITY phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 179 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 179 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 180 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 180 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 180 during ABILITY phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 181 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 181 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 182 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 182 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 182 during ABILITY phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 183 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 183 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 184 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 184 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 184 during ABILITY phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 185 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 185 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 186 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 186 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 186 during ABILITY phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 187 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 187 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 188 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 188 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 188 during ABILITY phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 189 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 189 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 190 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 190 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 190 during ABILITY phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 191 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 191 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 192 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 192 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 192 during ABILITY phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 193 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 193 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 194 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 194 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 194 during ABILITY phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 195 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 195 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 196 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 196 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 196 during ABILITY phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 197 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 197 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 198 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 198 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 198 during ABILITY phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 199 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of zombie player on turn 199 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 200 during MOVE phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 200 during ATTACK phase:
+java.lang.RuntimeException: Received null, expected a proper response
+An error occurred handling input of human player on turn 200 during ABILITY phase:
+java.lang.RuntimeException: Received null, expected a proper response
+Game finished on turn 200 with 20 humans and 5 zombies, 300-0 (H-Z)
+Writing to `gamelogs/gamelog_2023_09_22__22_11_57.json`...
+Finished
